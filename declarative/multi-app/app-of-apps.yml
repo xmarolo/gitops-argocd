@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:xmarolo/gitops-argocd.git
+    repoURL: git@github.com:xmarolo/gitops-argocd.gitt
     targetRevision: HEAD
     path: ./declarative/app-of-apps
   destination:
